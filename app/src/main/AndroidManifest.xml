@@ -41,7 +41,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAIDu6zg6qMIAHvvWpyTmmbWK4tXbUWnO8" />
+            android:value="fake-api-key" />
 
         <activity
             android:name=".DustbinsMapsActivity"
